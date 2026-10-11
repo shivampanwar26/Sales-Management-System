@@ -12,7 +12,7 @@ A comprehensive **Sales Management System** written in **Java (Swing GUI)** with
 - 🔒 Uses MySQL with JDBC for robust data storage
 - 🖥️ Built using Java Swing with a clear, grid-based UI
 - 🔁 Uses transaction management and foreign key constraints
-
+  <img src="sales_management_object_diagram.svg" width="50%" />
 ---
 
 ## 📚 Technologies Used
